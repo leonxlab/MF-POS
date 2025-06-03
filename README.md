@@ -107,8 +107,9 @@ ALTER TABLE Obat ADD COLUMN ExpiryDate TEXT;
 ## 📜 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
+---
 
-Dikembangkan oleh LeonXlab
+**Dikembangkan oleh LeonXlab**
 [GitHub](https://github.com/leonxlab) | [Portfolio](https://leonxlab.github.io)
 
 
