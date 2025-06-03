@@ -74,7 +74,7 @@ MF_POS/
 Username: admin
 Password: admin (ubah setelah instalasi!)
 ```
-# Shortcut Penting
+### Shortcut Penting
 | Kombinasi        | Aksi                    |
 |------------------|-------------------------|
 | `Enter`          | ✅ Selesaikan transaksi  |
