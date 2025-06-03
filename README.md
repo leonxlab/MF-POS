@@ -109,6 +109,5 @@ Proyek ini dilisensikan di bawah MIT License.
 
 ---
 
-**LeonXlab**
+**LeonXlab**  
 [GitHub](https://github.com/leonxlab) | [Contact](mailto:leonxlab@icloud.com)
-
