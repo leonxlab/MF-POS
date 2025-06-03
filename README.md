@@ -48,7 +48,8 @@
 ### Langkah-langkah
 1. Clone repo:
    ```bash
-   git clone https://github.com/leonxlab/MF-POS.git```
+   git clone https://github.com/leonxlab/MF-POS.git
+   ```
 2. Buka solusi di Visual Studio 2019+
 3. Build solusi `(Ctrl+Shift+B)`
 4. Jalankan `MF_POS.exe` dari folder `bin/Release`
