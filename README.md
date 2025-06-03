@@ -1,9 +1,9 @@
 # MF POS - Sistem Kasir Apotek
 
-![Screenshot Login](screenshot/1.png)
-![Screenshot Menu](screenshot/2.png)
-![Screenshot Kasir](screenshot/3.png)
-![Screenshot Stok](screenshot/4.png)
+![Screenshot Login](screenshot/1.PNG)
+![Screenshot Menu](screenshot/2.PNG)
+![Screenshot Kasir](screenshot/3.PNG)
+![Screenshot Stok](screenshot/4.PNG)
 ![Screenshot Penjualan](screenshot/5.png)
 
 > Sistem Point of Sale (POS) khusus apotek dengan manajemen stok otomatis, laporan penjualan, dan ekspor PDF.
