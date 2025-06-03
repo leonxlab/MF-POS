@@ -69,7 +69,7 @@ MF_POS/
 ```
 
 ## 🧑‍💻 Penggunaan
-# Login
+### Login
 ```bash
 Username: admin
 Password: admin (ubah setelah instalasi!)
@@ -82,7 +82,7 @@ Password: admin (ubah setelah instalasi!)
 | `Ctrl + P`       | 🖨️ Cetak struk           |
 
 ## 🛠️ Customisasi
-# Ubah Tema Warna
+### Ubah Tema Warna
 Edit `Styles.vb:`
 ```vb
 Public Class AppColors
@@ -90,7 +90,7 @@ Public Class AppColors
     Public Shared Danger As Color = Color.FromArgb(220, 53, 69)  'Merah
 End Class
 ```
-# Tambah Kolom Database
+### Tambah Kolom Database
 1. Buka Database/apotek.db dengan [DB Browser for SQLite](https://sqlitebrowser.org/)
 2. Jalankan query:
 ```sql
